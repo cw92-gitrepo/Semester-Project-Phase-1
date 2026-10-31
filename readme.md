@@ -20,7 +20,7 @@ or after the file name; but that is the extent of input validation.
 
 After changing to the 
 ```
-./CPU_temp_program
+./Semester Project Phase 1
 ```
 directory in the terminal, run the command
 ```
