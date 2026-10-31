@@ -33,8 +33,8 @@ The output will be
 
 ```
 Temperature dataset: {filename}
-{interval 1} seconds: [temperature list]
-{interval 2} seconds: [temperature list]
+{interval 1} seconds: [temperature list 1]
+{interval 2} seconds: [temperature list 2]
 ........
 ```
 

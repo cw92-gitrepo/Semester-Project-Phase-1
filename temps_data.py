@@ -20,8 +20,8 @@ class Dataset:
     Override for string output for this dataclass.
     Changes string to be format as 
         |Temperature dataset: {filename}
-        |{interval 1} seconds: [temperature list]
-        |{interval 2} seconds: [temperature list]
+        |{interval 1} seconds: [temperature list 1]
+        |{interval 2} seconds: [temperature list 2]
         |........
     """
 
